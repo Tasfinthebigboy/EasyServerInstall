@@ -10,7 +10,7 @@ if not exist plugins\ViaBackwards.jar curl -o plugins\ViaBackwards.jar https://b
 if not exist server.properties curl -o server.properties https://basichtml.ignorelist.com/server.properties
 echo container@pterodactyl~ java -version
 java -version
-echo container@pterodactyl~ ./run ./start.sh -port 25565 -uptime true -memory Xmx3156M Xms3156M
+echo container@pterodactyl~ java -Xmx3156M -Xms3156M -jar server.jar nogui
 echo container@pterodactyl~ Server marked as starting or online...
 java -Xmx3156M -Xms3156M -jar server.jar nogui
 echo container@pterodactyl~ Server marked as offline.
