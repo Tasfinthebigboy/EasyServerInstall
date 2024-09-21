@@ -17,9 +17,6 @@ This repository contains pre-configured batch scripts (`start.bat`) for various 
 3. Double-click the `start.bat` file to run it.
 4. The script will automatically download the necessary server files and plugins.
 5. Once everything is downloaded, your server will start.
-6. After that it will stop the server. You have to go to the file called `eula.txt`.
-7. Set the `eula=false` to `eula=true` and save the file.
-8. After That start your server and Enjoy!
 
 ## Plugins Included
 - **ViaVersion**: Allows players from newer Minecraft versions to connect to your server.
