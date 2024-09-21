@@ -10,6 +10,7 @@ This repository contains pre-configured batch scripts (`start.bat`) for various 
 - **[Minecraft 1.20.4](https://github.com/Tasfinthebigboy/HomeMCServer/blob/main/1.20.4/start.bat)**
 - **[Minecraft 1.20.5](https://github.com/Tasfinthebigboy/HomeMCServer/blob/main/1.20.5/start.bat)**
 - **[Minecraft 1.20.6](https://github.com/Tasfinthebigboy/HomeMCServer/blob/main/1.20.6/start.bat)**
+- **[Minecraft 1.21.1](https://github.com/Tasfinthebigboy/HomeMCServer/blob/main//start.bat)**
 
 ## How to Use
 1. Download the `start.bat` file for the Minecraft version you want to run.
