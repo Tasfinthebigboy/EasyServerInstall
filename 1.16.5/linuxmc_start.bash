@@ -1,4 +1,5 @@
 #!/bin/bash
+# Works both in Linux and MacOS
 
 echo "[Daemon]: Checking server disk space usage, this could take a few seconds..."
 
